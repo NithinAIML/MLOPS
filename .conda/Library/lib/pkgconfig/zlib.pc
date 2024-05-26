@@ -1,0 +1,13 @@
+prefix=d:/MLFlow/.conda/Library
+exec_prefix=d:/MLFlow/.conda/Library
+libdir=d:/MLFlow/.conda/Library/lib
+sharedlibdir=d:/MLFlow/.conda/Library/lib
+includedir=d:/MLFlow/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

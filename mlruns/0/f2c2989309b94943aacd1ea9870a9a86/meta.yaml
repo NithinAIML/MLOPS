@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/mlruns/0/f2c2989309b94943aacd1ea9870a9a86/artifacts
+end_time: 1716697458009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c2989309b94943aacd1ea9870a9a86
+run_name: sneaky-flea-553
+run_uuid: f2c2989309b94943aacd1ea9870a9a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716697453238
+status: 3
+tags: []
+user_id: ADMIN
